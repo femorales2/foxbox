@@ -21,6 +21,9 @@ function App() {
       <label>
         write a sentence
       </label>
+      <label>
+        example: show me the code
+      </label>
       <input type="text" onChange={handleInputChange} />
 
       <div className="ngram">
