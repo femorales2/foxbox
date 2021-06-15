@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+input {
+  height: 40px;
+  font-size: 20px;
+}
+label {
+  display: block;
+}
+.ngram {
+  margin-top: 50px;
+}
