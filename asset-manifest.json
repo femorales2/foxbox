@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/foxbox/static/css/main.8aed5507.chunk.css",
-    "main.js": "/foxbox/static/js/main.15970a73.chunk.js",
-    "main.js.map": "/foxbox/static/js/main.15970a73.chunk.js.map",
+    "main.js": "/foxbox/static/js/main.2a9ca4a7.chunk.js",
+    "main.js.map": "/foxbox/static/js/main.2a9ca4a7.chunk.js.map",
     "runtime-main.js": "/foxbox/static/js/runtime-main.19c893b8.js",
     "runtime-main.js.map": "/foxbox/static/js/runtime-main.19c893b8.js.map",
     "static/js/2.b96afc9d.chunk.js": "/foxbox/static/js/2.b96afc9d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.19c893b8.js",
     "static/js/2.b96afc9d.chunk.js",
     "static/css/main.8aed5507.chunk.css",
-    "static/js/main.15970a73.chunk.js"
+    "static/js/main.2a9ca4a7.chunk.js"
   ]
 }
